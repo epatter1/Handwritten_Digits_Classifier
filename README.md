@@ -1,4 +1,4 @@
-# Handwritten-Digits-Classifier
+# Creating Handwritten Digits Classifier
 
 **[View Here!](https://nbviewer.jupyter.org/github/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)** :eyes:
 
