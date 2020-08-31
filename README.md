@@ -3,8 +3,6 @@
 **[View Here!](https://nbviewer.jupyter.org/github/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)**
 :eyes:
 
-**[Or here if viewer link doesn't work](https://github.com/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)**
-
 > ### Goals
 * Explore why image classification is a hard task
 * Observe the limitations of traditional machine learning models for image classification
