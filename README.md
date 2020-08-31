@@ -1,6 +1,11 @@
 # Creating Handwritten Digits Classifier
 
-**[View Here!](https://nbviewer.jupyter.org/github/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)** :eyes:
+**[View Here!](https://nbviewer.jupyter.org/github/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)**
+:eyes:
+
+**[Or here if viewer link doesn't work](https://github.com/epatter1/Handwritten-Digits-Classifier/blob/master/Building_A_Handwritten_Digits_Classifier.ipynb)**
+
+
 
 ### Some history
 Before the year 2000, institutions like the United States Post Office used handwriting recognition software to read addresses, zip codes, and more. 
